@@ -25,6 +25,31 @@
     gap: 3rem;
 }
 
+/* Buttons */
+.btn-primary,
+.btn-secondary{
+    padding: 2.1rem 4.5rem;
+    font-size: 1.6rem;
+    border-radius: 1rem;
+}
+
+.btn-primary{
+    border: none;
+    color: #fff;
+    background-color: #23a6f0;
+}
+
+.btn-secondary{
+    border: 1px solid #23a6f0;
+    color: #23a6f0;
+    background-color: transparent;
+}
+
+.button-wrapper{
+    display: flex;
+    gap: 1rem;
+}
+
 /* Typography */
 .main-headline,
 .main-description{
