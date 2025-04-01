@@ -1,0 +1,53 @@
+/* Default */
+:root{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* */
+.main{
+    background-color: #252b42;
+    height: 100vh;
+}
+
+
+/* Typography */
+.main-headline,
+.main-description{
+    color: #fff;
+}
+
+.main-headline{
+    font-size: 6.5rem;
+}
+
+.main-description{
+    font-size: 2.1rem;
+}
+
+.card-headline,
+.card-headline-2{
+    font-size: 1.8rem;
+}
+
+.card-headline{
+    color: #252b42;
+}
+
+.card-description{
+    color: #969696;
+}
+
+.card-headline-2,
+.card-description-2{
+    color: #fff;
+}
+
+.card-description,
+.card-description-2{
+    font-size: 1.4rem;
+}
