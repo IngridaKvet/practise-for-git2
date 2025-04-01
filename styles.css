@@ -51,3 +51,54 @@
 .card-description-2{
     font-size: 1.4rem;
 }
+
+
+/* Cards */
+.card,
+.card-2{
+    padding: 3.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2.4rem;
+    max-width: 35.7rem;
+}
+
+.card{
+    background-color: #fff;
+}
+
+.card-2{
+    background-color: #23a6f0;
+}
+
+.square-1,
+.square-2,
+.square-3{
+    width: 7.6rem;
+    height: 8.3rem;
+    border-radius: 1rem;
+}
+
+.square-1{
+    background-color: #ffdcd1;
+}
+
+.square-2{
+    background-color: #c8e1bf;
+}
+
+.square-3{
+    background-color: #fff;
+}
+
+.divider-1{
+    background-color: #e95858;
+    height: 2px;
+    width: 55px;
+}
+
+.divider-2{
+    background-color: #fff;
+    height: 2px;
+    width: 55px;
+}
